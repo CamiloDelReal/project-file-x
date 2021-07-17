@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="splash_icon_size">48dp</dimen>
+
+    <dimen name="item_corner_radius">4dp</dimen>
+    <dimen name="popup_corner_radius">6dp</dimen>
+
+    <dimen name="about_reference_padding">6dp</dimen>
+    <dimen name="about_reference_icon_size">40dp</dimen>
+    <dimen name="about_reference_content_space">12dp</dimen>
+
+    <dimen name="about_toolbar_height_expanded">240dp</dimen>
+    <dimen name="about_toolbar_height_collapsed">60dp</dimen>
+    <dimen name="about_padding">12dp</dimen>
+    <dimen name="about_header_content_space">16dp</dimen>
+    <dimen name="about_header_content_padding">6dp</dimen>
+    <dimen name="about_icon_size">100dp</dimen>
+    <dimen name="about_space">12dp</dimen>
+    <dimen name="about_content_space">4dp</dimen>
+    <dimen name="about_section_space">18dp</dimen>
+    <dimen name="about_section_header_space">6dp</dimen>
+    <dimen name="about_section_item_space">6dp</dimen>
+    <dimen name="about_header_space">24dp</dimen>
+    <dimen name="about_separator_height">1dp</dimen>
+    <dimen name="about_back_button_margin">4dp</dimen>
+    <dimen name="about_back_button_radius">28dp</dimen>
+
+    <dimen name="margin_normal">12dp</dimen>
+    <dimen name="margin_small">6dp</dimen>
+    <dimen name="margin_large">18dp</dimen>
+
+    <dimen name="content_padding">12dp</dimen>
+    <dimen name="content_padding_small">6dp</dimen>
+    <dimen name="content_padding_large">18dp</dimen>
+
+    <dimen name="item_content_space">16dp</dimen>
+    <dimen name="item_inner_padding">8dp</dimen>
+    <dimen name="item_inner_padding_small">4dp</dimen>
+    <dimen name="item_icon_size">24dp</dimen>
+    <dimen name="item_icon_bg_size">40dp</dimen>
+    <dimen name="item_icon_bg_rounded_corner_radius">8dp</dimen>
+    <dimen name="item_icon_bg_circle_radius">20dp</dimen>
+    <dimen name="item_icon_bg_square_radius">0dp</dimen>
+
+</resources>

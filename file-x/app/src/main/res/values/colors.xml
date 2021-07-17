@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_200">#ffcc80</color>
+    <color name="orange_500">#ff9800</color>
+    <color name="orange_600">#fb8c00</color>
+    <color name="orange_700">#f57c00</color>
+
+    <color name="bluegrey_200">#b0bec5</color>
+    <color name="bluegrey_300">#90a4ae</color>
+    <color name="bluegrey_500">#607d8b</color>
+    <color name="bluegrey_700">#455a64</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="error">#F44336</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#ffc107</color>
+
+</resources>

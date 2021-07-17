@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AboutReference">
+        <attr name="ar_text" format="string" />
+        <attr name="ar_link" format="string" />
+        <attr name="ar_icon" format="reference" />
+    </declare-styleable>
+
+</resources>

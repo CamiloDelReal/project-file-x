@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FileX" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange_500</item>
+        <item name="colorPrimaryVariant">@color/orange_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:windowBackground">@color/orange_500</item>
+
+        <item name="colorSecondary">@color/bluegrey_500</item>
+        <item name="colorSecondaryVariant">@color/bluegrey_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <item name="fontFamily">@font/rubik_regular</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+</resources>
